@@ -1,0 +1,231 @@
+/*         GENERAL        */
+p {
+  font-family: 'Slabo 27px', serif;
+  color: #2A2A2B;
+}
+
+li {
+  font-family: 'Slabo 27px', serif;
+  color: #2A2A2B;
+}
+
+h6 {
+  font-family: 'Roboto', sans-serif;
+  color: #2A2A2B;
+}
+
+/*        HEADING        */
+.navi {
+  background-color: #283F5C;
+  width: 100%;
+  color: white;
+  height: 50px;
+}
+
+.navi h5 {
+  padding: 5% 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+/*         SELECTION        */
+.subheader {
+  background-color: #3E606F;
+  color: white;
+  width: 100%;
+  height: 50px;
+}
+
+.subheader h5 {
+  padding: 5% 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+/*        BOURBON        */
+.bourbon {
+  width: 100%;
+  height: 150px;
+  /*background-color: #91AA9D;*/
+  background-image: url('https://www.thecocktailproject.com/sites/default/files/styles/recipe-slider-img/public/knobcreek_oldfashioned_beauty_7832-4868-Edit.jpg?itok=8FCuLSmN');
+  background-size: cover;
+  border-bottom: 2px solid white;
+}
+
+.bourbon h3 {
+  color: white;
+  padding-top: 6%;
+  padding-bottom: 6%;
+
+}
+
+.bourbon_list {
+  background-color: #D1DBBD;
+  width: 100%;
+}
+
+/*        GIN       */
+.gin {
+  width: 100%;
+  height: 150px;
+  /*background-color: #91AA9D;*/
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxyv9AONw2xznBqcxwBNGjGQNhFliC3AFedzYiTb5YtMiycxcnTQ');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-bottom: 2px solid white;
+}
+
+.gin h3 {
+  color: white;
+  padding-top: 6%;
+  padding-bottom: 6%;
+
+}
+
+.gin_list {
+  background-color: #D1DBBD;
+  width: 100%;
+}
+
+
+/*        RUM        */
+.rum {
+  width: 100%;
+  height: 150px;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXRAM4pHf3ZP4lw-sHIMVcnyfgXyblzpxpbzc0Efykq4MnROle');
+  background-size: cover;
+  border-bottom: 2px solid white;
+}
+
+.rum h3 {
+  color: white;
+  padding-top: 6%;
+  padding-bottom: 6%;
+
+}
+
+.rum_list {
+  background-color: #D1DBBD;
+  width: 100%;
+}
+
+/*        TEQUILA        */
+.tequila {
+  width: 100%;
+  height: 150px;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHbwRj7zGcQTxPEshscNFQrcMsslcRaXuKP_4WSXOWDAJwwb3J');
+  background-size: cover;
+  border-bottom: 2px solid white;
+}
+
+.tequila h3 {
+  color: white;
+  padding-top: 6%;
+  padding-bottom: 6%;
+
+}
+
+.tequila_list {
+  background-color: #D1DBBD;
+  width: 100%;
+}
+
+/*        VODKA        */
+.vodka {
+  width: 100%;
+  height: 150px;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBTTbHBCkZwZe49smKj0B09su1ubqwveQPLIbmw4skeDbpcTLQ');
+  background-size: cover;
+  border-bottom: 2px solid white;
+}
+
+.vodka h3 {
+  color: white;
+  padding-top: 6%;
+  padding-bottom: 6%;
+
+}
+
+.vodka_list {
+  background-color: #D1DBBD;
+  width: 100%;
+}
+
+/*        CHAMPAGNE        */
+.champagne {
+  width: 100%;
+  height: 150px;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rXjtGb5b4AC6naPVbW2PudMg0xz5ubL8tyZbYCWHVxxHiMBB');
+  background-size: cover;
+  border-bottom: 2px solid white;
+}
+
+.champagne h3 {
+  color: white;
+  padding-top: 6%;
+  padding-bottom: 6%;
+
+}
+
+.champagne_list {
+  background-color: #D1DBBD;
+  width: 100%;
+}
+
+/*        other        */
+.more {
+  width: 100%;
+  height: 150px;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuz8yr7E6He6ZUzfp0kQYQ7wMx4ESMaO5LE-_k3kD1EtvY_KUYw');
+  background-size: cover;
+  border-bottom: 2px solid white;
+}
+
+.more h3 {
+  color: white;
+  padding-top: 6%;
+  padding-bottom: 6%;
+
+}
+
+.more_list {
+  background-color: #D1DBBD;
+  width: 100%;
+}
+
+/* INDIVIDUAL DRINKS CSS */
+.dcss {
+  width: 100%;
+  height: 50px;
+  border-bottom: 2px solid white;
+  
+}
+
+.dcss h6 {
+  padding: 5% 0;
+}
+
+.dcssm {
+  padding: 10px 18px;
+  border-bottom: 2px solid white;
+}
+
+
+
+
+
+
+.foot {
+  background-color: #2A2A2B;
+  height: 300px;
+}
+
+@media only screen and (min-width: 800px) {
+  .hider{
+   display: none; 
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .secret_message{
+   display: none; 
+  }
+}
